@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.img-fluid banner-img{
+.img-fluid-banner-img {
   width: 20px;
   object-fit: cover;
   border-radius: 10px;
