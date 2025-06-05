@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.banner-img {
+.img {
   max-height: 20px;
   object-fit: cover;
   border-radius: 10px;
